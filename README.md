@@ -10,19 +10,11 @@
 
 <img align="right" alt="" height="200px" src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzE4ODU4OTYsIm5iZiI6MTczMTg4NTU5NiwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTE3VDIzMTk1NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThiMDBmMmM5Zjc1NWI1ODk0Y2E4ZTQ5MDU3ZjIzNzMxNzk3NzllMzJiNmEwNTIxNTc4Y2U0Y2RlOWYyYTUxNzMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.xxF4HiOhVkI5Ud6bGXVK6_FR5XlnYyRwAgPhDUiKK20">
 
-<h3 align="left">🌐 Connecting ideas!</h3>
+<h3 align="left">Connect with me!</h3>
 
-<div align="left">
-  <a href="https://www.instagram.com/itsbrunabarreto/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=000000&logoColor=4a2c81&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/itsbrunabarreto/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=%20Linkedin&logo=linkedin&label=&color=000000&logoColor=4a2c81&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:contatobrunabarretto@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=microsoft-outlook&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="microsoft-outlook logo"  />
-  </a>
-</div>
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=975AD6&color:FFF)](mailto:contatobrunabarretto@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=975AD6&color:FFF)](https://www.linkedin.com/in/itsbrunabarreto/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=975AD6&color:FFF)](https://www.instagram.com/itsbrunabarreto/)
 
 <h3 align="left">🤖 Stacks</h3>
 
@@ -49,6 +41,8 @@
   <a href="https://github.com/itsbrunabarreto/github-readme-stats">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=itsbrunabarreto&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=4a2c81&hide=html,scss,less&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=4a2c81" alt="Most Used Languages">
   </a>
+  
+#
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <picture>
