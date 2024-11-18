@@ -1,36 +1,30 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C40BB&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&random=falso&width=435&lines=%E2%9C%BA+Descubra+o+meu+universo+tech+%E2%9C%BA" alt="Typing SVG" /></a>
-
-<h5 align="left">Estudante de Engenharia da Computação com foco em Banco de Dados e Desenvolvimento de Software. Atualmente estudo e desenvolvo projetos utilizando C#. Aqui você encontrará projetos acadêmicos, aplicações que desenvolvo enquanto exploro novas tecnologias.<br><br>Estou sempre atualizando meus conhecimentos e buscando desafios que me permitam crescer na área. Tenho paixão por aprender e aplicar o que sei para criar soluções inovadoras e eficientes.</h5>
-
-###
-
-<br clear="both">
-
-<p align="left">🌐 Conectando ideias, criando futuro</p>
-
-###
-
-<div align="left">
-  <a href="https://www.instagram.com/itsbrunabarreto/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=000000&logoColor=4a2c81&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="contatobrunabarretto@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=000000&logoColor=4a2c81&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/itsbrunabarreto/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=%20Linkedin&logo=linkedin&label=&color=000000&logoColor=4a2c81&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+<div align="center" style="display: flex; justify-content: center; align-items: center; height: 80px;">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=975AD6&center=true&vCenter=true&repeat=true&random=false&width=450&height=60&lines=%E2%9C%BA+Welcome+to+my+tech+universe+%E2%9C%BA" alt="Typing SVG" />
   </a>
 </div>
 
-###
+<p align="center">Estudante de Engenharia da Computação, atualmente estudo e desenvolvo projetos utilizando C#. Aqui você encontrará projetos acadêmicos, aplicações que desenvolvo enquanto exploro novas tecnologias. Estou sempre atualizando meus conhecimentos e buscando desafios que me permitam crescer na área. Tenho paixão por aprender e aplicar o que sei para criar soluções inovadoras e eficientes.
 
-<img align="right" height="140" src="https://private-user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzE4Njg0MTAsIm5iZiI6MTczMTg2ODExMCwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA2OTItMGIzMzUwMjgtMWQzZC00ZWU1LWI1YjMtYTM3M2Q0OTliZTdlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTE3VDE4MjgzMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTc1YTYwM2MzMTU2Njk4NTdhY2MxMmJlMjNiNTYzN2YxNDQ2N2FmMGRmYjNlNjYzMTkzNmU4NGUwOGI2ZmU4NGEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.tq1hiOl1gxb9paVqNhGdyYvIs0RC2DTzplNlYPRFV90"  />
+#
 
-###
+<img align="right" alt="" height="200px" src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzE4ODU4OTYsIm5iZiI6MTczMTg4NTU5NiwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTE3VDIzMTk1NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThiMDBmMmM5Zjc1NWI1ODk0Y2E4ZTQ5MDU3ZjIzNzMxNzk3NzllMzJiNmEwNTIxNTc4Y2U0Y2RlOWYyYTUxNzMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.xxF4HiOhVkI5Ud6bGXVK6_FR5XlnYyRwAgPhDUiKK20">
 
-<p align="left">🤖 Stacks</p>
+<h3 align="left">🌐 Connecting ideas!</h3>
 
-###
+<div align="left">
+  <a href="https://www.instagram.com/itsbrunabarreto/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=000000&logoColor=4a2c81&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/itsbrunabarreto/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=%20Linkedin&logo=linkedin&label=&color=000000&logoColor=4a2c81&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:contatobrunabarretto@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=microsoft-outlook&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="microsoft-outlook logo"  />
+  </a>
+</div>
+
+<h3 align="left">🤖 Stacks</h3>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
@@ -44,21 +38,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
 </div>
 
-###
+#
 
-<p align="left">📊 Estatísticas</p>
+<div align="center" style="display: flex; justify-content: center; align-items: center; height: 80px;">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=975AD6&center=true&vCenter=true&repeat=false&width=450&height=60&lines=%E2%9A%9E+GitHub+Stats+%E2%9A%9F" alt="Typing SVG" />
+  </a>
+  <br>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=itsbrunabarreto&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=4a2c81&text_color=FFF&border_radius=3&border_color=4a2c81&icon_color=4a2c81&theme=midnight-purple" alt="GitHub stats">
+  <a href="https://github.com/itsbrunabarreto/github-readme-stats">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=itsbrunabarreto&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=4a2c81&hide=html,scss,less&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=4a2c81" alt="Most Used Languages">
+  </a>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsbrunabarreto&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itsbrunabarreto&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false&custom_title=Languages" height="150" alt="languages graph"  />
+<div style="display: flex; justify-content: center; align-items: center;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/itsbrunabarreto/itsbrunabarreto/output/snake.svg" alt="Snake animation" />
-
-###
